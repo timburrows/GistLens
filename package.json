@@ -1,0 +1,13 @@
+{
+    "name": "stack",
+    "description": "Stack based (LIFO) collection",
+    "version": "1.0",
+    "type": "module",
+    "main": "stack.js",
+    "dependencies": {
+        "mocha": "^10.0.0"
+    },
+    "scripts": {
+        "test": "mocha"
+    }
+}
